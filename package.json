@@ -1,0 +1,13 @@
+{
+  "name": "ebook-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Estúdio editorial de ebooks com integração preparada para Vercel e Supabase",
+  "engines": { "node": "22.x" },
+  "scripts": {
+    "build": "node tools/build.cjs",
+    "start": "node tools/local-server.cjs",
+    "test": "node --test tests/*.test.cjs",
+    "samples": "node tools/export-samples.cjs"
+  }
+}

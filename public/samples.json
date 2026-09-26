@@ -1,0 +1,89 @@
+[
+  {
+    "title": "IA na rotina: comece com uma tarefa pequena",
+    "subtitle": "Um guia introdutório com exercícios para trabalhar com mais clareza",
+    "author": "Jorge",
+    "niche": "IA e tecnologia",
+    "audience": "Profissionais que querem experimentar assistentes de IA no trabalho",
+    "goal": "Escolher uma tarefa, escrever boas instruções e revisar o resultado antes de usar.",
+    "summary": "Um primeiro roteiro para organizar ideias, preparar mensagens e transformar anotações em ações com apoio de IA. Inclui exemplos fictícios e exercícios de revisão.",
+    "sources": "Exemplos e atividades originais preparados para este rascunho. Não houve pesquisa de ferramentas, preços ou funcionalidades atuais. Revise as orientações conforme o ambiente e as regras do seu trabalho antes de publicar.",
+    "assisted": true,
+    "chapters": [
+      {
+        "title": "1. Escolha uma tarefa que você consegue conferir",
+        "body": "Você não precisa começar automatizando uma empresa inteira. Escolha uma tarefa curta cujo resultado possa ser conferido por você. Organizar tópicos de uma reunião fictícia, transformar uma lista em um roteiro ou preparar a estrutura de uma mensagem são pontos de partida simples.\n\nImagine uma pessoa que recebe estas anotações: responder orçamento, confirmar horário de entrega e revisar a descrição de um produto. Ela pode pedir à IA que transforme a lista em três ações, mantendo as informações fornecidas e marcando o que está faltando. O resultado continua sendo um rascunho: a pessoa confere nomes, datas e compromissos antes de usar.\n\nO critério de escolha é a possibilidade de revisão. Se você não consegue avaliar a resposta, comece com uma tarefa menor ou peça ajuda a alguém que conheça o assunto. Evite delegar decisões finais com base apenas em um texto que parece convincente.\n\nAtividade: escreva três tarefas repetitivas da sua rotina. Ao lado de cada uma, anote o que seria um bom resultado e como você perceberia um erro. Escolha a tarefa mais fácil de verificar. Use dados fictícios neste primeiro exercício."
+      },
+      {
+        "title": "2. Dê contexto, objetivo e formato",
+        "body": "Uma instrução de trabalho pode ser organizada em quatro partes: situação, resultado esperado, informações disponíveis e formato da resposta. Isso ajuda a tornar sua intenção explícita. Não existe uma frase mágica; o pedido precisa combinar com a tarefa.\n\nExemplo de instrução: “Preciso organizar uma reunião de atendimento de 20 minutos. O objetivo é entender por que pedidos estão voltando para correção. Temos dúvidas sobre cadastro e prazo de entrega. Crie uma pauta com três tópicos, uma pergunta por tópico e um campo para registrar decisões. Não invente números nem causas.”\n\nDepois de receber a primeira resposta, avalie o que está genérico. Você pode pedir uma pauta mais curta, trocar termos pouco claros ou explicar melhor o público. Preserve uma versão do pedido inicial para comparar o que mudou.\n\nAtividade: use a tarefa escolhida no capítulo anterior. Escreva a situação em duas frases, defina um resultado, indique as informações que podem ser usadas e escolha um formato. Acrescente: “Se faltar algum dado, sinalize a lacuna.” Guarde essa instrução como um modelo e adapte-a a cada uso."
+      },
+      {
+        "title": "3. Revise antes de enviar ou publicar",
+        "body": "Separe a revisão em três perguntas. A resposta corresponde ao pedido? As informações podem ser confirmadas? O texto é adequado para quem vai recebê-lo? Leia primeiro o conteúdo; só depois ajuste o estilo. Uma mensagem elegante pode continuar incompleta ou incorreta.\n\nNo exemplo da reunião, confira se a pauta cabe no tempo disponível e se não atribui culpa a alguém sem evidência. Em uma mensagem de atendimento, confirme os nomes, o pedido e o prazo prometido. Se o assistente apresentar uma referência que você não conhece, verifique sua existência e seu conteúdo antes de utilizá-la.\n\nAo trabalhar com informações de outras pessoas, use somente os dados necessários e os ambientes autorizados para sua atividade. Para exercícios, substitua nomes e registros reais por exemplos fictícios. Verifique as regras do serviço escolhido e da sua organização antes de inserir material reservado.\n\nAtividade: pegue o rascunho gerado e marque cada afirmação que depende de verificação. Faça as correções e escreva uma observação final: “Conferido por mim em ___”. Esse registro é um lembrete de processo, não uma certificação automática de qualidade."
+      },
+      {
+        "title": "4. Transforme o experimento em uma rotina",
+        "body": "Crie um registro simples com data, tarefa, instrução usada, resultado e correções necessárias. O propósito é descobrir quando a ferramenta ajuda e quando acrescenta trabalho. Não conclua que uma rotina funciona só porque a primeira resposta ficou bonita.\n\nExperimente a mesma tarefa algumas vezes. Compare a duração da execução e da revisão com a forma anterior de trabalhar. Anote problemas recorrentes: detalhes omitidos, linguagem inadequada ou excesso de texto. Ajuste a instrução e observe novamente.\n\nQuando o processo estiver claro, prepare um pequeno roteiro: reunir dados, retirar informações desnecessárias, enviar a instrução, revisar, aprovar e guardar a versão final. A automação pode executar partes desse roteiro; a responsabilidade pela comunicação continua com quem a utiliza.\n\nPlano de prática: no primeiro encontro, escolha e descreva a tarefa. No segundo, teste uma instrução. No terceiro, revise a resposta. No quarto, repita com outro exemplo. No último, decida se vale continuar e documente a melhor versão. Ao final, você terá um procedimento observado na sua própria rotina, em vez de uma promessa genérica de produtividade."
+      }
+    ]
+  },
+  {
+    "title": "Estudo organizado: do conteúdo à revisão",
+    "subtitle": "Um roteiro simples para planejar, praticar e acompanhar sua semana",
+    "author": "Jorge",
+    "niche": "Estudos e aprendizagem",
+    "audience": "Pessoas que estudam por conta própria e querem organizar sessões curtas",
+    "goal": "Montar uma semana de estudo com objetivos observáveis e revisão dos próprios erros.",
+    "summary": "Organize os assuntos, defina tarefas possíveis e acompanhe dúvidas e revisões com um registro simples. Um guia de prática para adaptar ao seu tempo disponível.",
+    "sources": "Roteiro e atividades autorais propostos como experimento de organização. Não é um protocolo clínico nem uma garantia de desempenho. O leitor deve adaptar os exemplos às suas necessidades. Rascunho para revisão editorial.",
+    "assisted": true,
+    "chapters": [
+      {
+        "title": "1. Faça um mapa pequeno do que precisa estudar",
+        "body": "Comece com a fonte que define o seu objetivo: um programa de disciplina, um edital ou uma lista de conteúdos. Transforme cada assunto amplo em tarefas que possam ser executadas. “Estudar informática” é muito aberto. “Explicar o que é uma chave primária e resolver três exemplos” permite saber o que será feito.\n\nOrganize uma lista com assunto, material de apoio, dificuldade percebida e próxima ação. A dificuldade inicial é apenas uma impressão; ela pode mudar depois da prática. Escolha poucos tópicos para a primeira semana e preserve espaço para corrigir o planejamento.\n\nExemplo fictício: Ana tem quatro sessões disponíveis. Ela escolhe interpretação de texto, porcentagem e fundamentos de banco de dados. A quarta sessão fica reservada para revisar os erros encontrados nas anteriores. Não é uma distribuição obrigatória: é um ponto de partida que cabe no tempo dela.\n\nAtividade: escreva cinco tarefas de estudo, cada uma começando com um verbo observável: explicar, resolver, comparar, desenhar ou resumir. Ao lado, indique o material que será utilizado e uma forma de conferir o resultado."
+      },
+      {
+        "title": "2. Dê uma tarefa clara para cada sessão",
+        "body": "Planeje a sessão com um resultado concreto. Em vez de apenas marcar “uma hora de estudo”, registre o que deve existir ao final: questões respondidas, um esquema ou uma explicação com suas palavras. Ajuste a duração à sua disponibilidade real.\n\nUm roteiro possível tem três momentos. Primeiro, lembre o que você já sabe e registre uma dúvida. Depois, consulte o material e resolva uma atividade. Por fim, compare o resultado com a fonte e anote o próximo passo. Essa organização torna visível o que foi feito, mesmo quando a sessão é curta.\n\nNão preencha toda a semana com o tempo ideal. Considere deslocamentos, trabalho e compromissos. Se a sessão planejada não acontecer, escolha uma nova posição na agenda em vez de acumular uma lista impossível. Uma sessão encerrada com uma dúvida bem identificada também fornece informação útil para o planejamento seguinte.\n\nAtividade: prepare três cartões de sessão. Cada cartão deve ter assunto, tarefa, material e critério de conclusão. Um exemplo: “Porcentagem; resolver cinco exercícios; conferir cada cálculo; separar os erros por tipo.”"
+      },
+      {
+        "title": "3. Use os erros para definir a próxima revisão",
+        "body": "Ao corrigir uma atividade, registre o motivo do erro com a maior precisão possível. Você pode ter esquecido um conceito, interpretado mal o enunciado ou cometido uma distração no cálculo. Reescrever somente a alternativa correta não mostra o que precisa mudar.\n\nCrie um registro com quatro campos: questão ou situação, minha resposta, explicação correta e ação de revisão. Se o erro foi conceitual, retome a fonte. Se faltou identificar uma palavra importante, compare enunciados parecidos. Se houve falha no cálculo, refaça a sequência explicando cada etapa.\n\nDepois, tente resolver uma atividade semelhante sem consultar a correção anterior. Anote o resultado e use-o para decidir se o tema deve voltar à agenda. O objetivo é observar seu desempenho, não apenas acumular páginas de anotações.\n\nAtividade: escolha três erros recentes e descreva cada um em uma frase. Para cada erro, escreva uma ação pequena que pode ser realizada na próxima sessão. Evite ações vagas como “prestar mais atenção”; prefira algo verificável, como “sublinhar o que a questão está pedindo antes de calcular”."
+      },
+      {
+        "title": "4. Encerre a semana com uma decisão",
+        "body": "Reserve um momento para olhar o que foi planejado e o que de fato aconteceu. Conte sessões realizadas, tarefas concluídas e dúvidas ainda abertas. Use esses registros para ajustar a semana seguinte, sem tratar o planejamento como uma prova de disciplina pessoal.\n\nPergunte: quais tarefas estavam grandes demais? Em qual horário consegui trabalhar melhor? Que assunto continua exigindo consulta frequente? O que posso retirar, dividir ou repetir? Essas respostas ajudam a escolher a próxima ação.\n\nExemplo fictício: Bruno planejou resolver vinte questões por sessão, mas só conseguiu corrigir dez com cuidado. Na semana seguinte, passa a planejar dez e separa os erros para uma sessão própria. A mudança reconhece o tempo de correção como parte do estudo.\n\nAtividade final: desenhe uma tabela com os dias disponíveis e escreva uma tarefa principal em cada dia. Deixe ao menos um espaço flexível para revisão ou imprevistos. Ao final da semana, preencha três linhas: o que funcionou, o que precisa mudar e qual será o primeiro passo da próxima semana."
+      }
+    ]
+  },
+  {
+    "title": "Estoque sem confusão: organize o básico",
+    "subtitle": "Um guia inicial para pequenos negócios registrarem e conferirem produtos",
+    "author": "Jorge",
+    "niche": "Pequenos negócios",
+    "audience": "Pequenos comerciantes que estão começando a organizar o estoque",
+    "goal": "Padronizar cadastros, registrar movimentações e preparar uma primeira contagem.",
+    "summary": "Um roteiro prático para organizar produtos, conferir entradas e saídas e investigar diferenças de saldo. Inclui exemplos fictícios e exercícios para aplicar em uma planilha ou sistema.",
+    "sources": "Exemplos operacionais fictícios e atividades autorais. Este material trata de organização de estoque, sem definir obrigações fiscais ou contábeis. Validar os procedimentos no contexto da empresa antes da publicação.",
+    "assisted": true,
+    "chapters": [
+      {
+        "title": "1. Defina o que cada cadastro representa",
+        "body": "Escolha um padrão para identificar os produtos. Use uma descrição clara e um código interno estável. Quando tamanho, cor, apresentação ou unidade distinguirem itens que precisam ser contados separadamente, essa diferença deve aparecer na identificação adotada pela loja.\n\nExemplo fictício: uma camiseta azul tamanho M e uma camiseta azul tamanho G são vendidas e contadas separadamente. Um cadastro genérico de “camiseta azul” dificulta saber qual tamanho está disponível. O mesmo problema aparece quando caixa e unidade são confundidas.\n\nAntes de cadastrar muitos itens, defina campos mínimos: código, descrição, unidade, localização e situação de uso. Se você controla embalagem de compra e unidade de venda diferentes, documente a relação entre elas e confira como o seu sistema trata essa conversão.\n\nAtividade: escolha dez produtos de uma prateleira. Verifique se outra pessoa conseguiria reconhecer cada um usando apenas o cadastro. Marque descrições ambíguas, unidades indefinidas e registros duplicados. Faça a correção primeiro nesse pequeno grupo e transforme o padrão aprovado em uma orientação para os demais cadastros."
+      },
+      {
+        "title": "2. Registre a movimentação no momento certo",
+        "body": "O saldo precisa acompanhar o que entra e o que sai. Organize os tipos de movimentação usados pelo negócio: recebimento, venda, devolução, transferência e ajuste. Cada registro deve explicar o que aconteceu, em vez de apenas alterar um número.\n\nNo recebimento, compare o produto físico com o documento e com a informação que será registrada. Confira item, quantidade e unidade. Se houver diferença, separe a ocorrência para tratamento antes de incorporar o saldo incorreto à rotina.\n\nExemplo fictício: o registro inicial mostra 18 unidades. Entram 10 e saem 7. O saldo esperado passa a 21 unidades, desde que todos os movimentos estejam completos e se refiram ao mesmo item e local. Se uma saída não foi registrada, o número do sistema deixa de representar a situação física.\n\nAtividade: escolha um produto e acompanhe seus movimentos durante um período curto. Registre data, motivo, quantidade e responsável. No encerramento, refaça a conta a partir do saldo inicial. Procure a causa das diferenças antes de lançar um ajuste."
+      },
+      {
+        "title": "3. Prepare uma contagem que possa ser repetida",
+        "body": "Uma contagem começa pela organização do local. Identifique prateleiras, separe mercadorias semelhantes e defina quais áreas serão conferidas. Combine como registrar movimentações que ocorrerem durante o trabalho; sem esse acordo, uma venda pode parecer uma diferença de contagem.\n\nUse uma lista com código, descrição, local, quantidade contada, horário e responsável. Se possível, faça a primeira contagem sem consultar o saldo esperado. Quando aparecer uma divergência, reconte e examine as movimentações do período antes de decidir qualquer correção.\n\nImagine que o sistema indica 21 unidades, mas foram encontradas 19. Isso não permite concluir, sozinho, que houve perda. É preciso verificar localização, unidade, lançamentos pendentes, devoluções e eventual erro de cadastro. Registre a conclusão e o motivo do ajuste, se ele for necessário.\n\nAtividade: faça uma contagem piloto de uma única prateleira. Liste as dificuldades encontradas: produto sem identificação, local inadequado ou movimentação sem registro. Corrija o procedimento e repita o exercício antes de ampliar para toda a loja."
+      },
+      {
+        "title": "4. Crie uma rotina de acompanhamento",
+        "body": "Depois de organizar o básico, escolha poucos indicadores que ajudem a decidir. Você pode acompanhar itens sem saldo, diferenças entre contagem e sistema, cadastros incompletos e produtos sem movimentação no período escolhido. Defina claramente o que cada indicador mede.\n\nEvite transformar um relatório em uma ordem automática de compra sem considerar o contexto. O histórico pode conter promoção, falta de produto ou um pedido excepcional. Ao definir reposição, examine o consumo observado, o prazo do fornecedor e a quantidade que faz sentido manter no negócio.\n\nUma rotina inicial pode dividir responsabilidades: quem recebe confere entrada; quem registra venda verifica o item; quem fecha o período revisa pendências. A frequência depende do volume de operações e dos recursos da empresa. O procedimento deve ser simples o suficiente para ser seguido.\n\nAtividade final: prepare uma página com quatro perguntas: o que precisa ser conferido, quem confere, quando confere e como registra uma diferença? Teste a rotina em um grupo de produtos e ajuste o que não funcionou. Só depois amplie o controle para outras áreas do estoque."
+      }
+    ]
+  }
+]
